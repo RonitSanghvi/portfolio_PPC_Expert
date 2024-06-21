@@ -2,7 +2,7 @@ import { FacebookIcon, InstagramIcon, LinkedinIcon, SearchIcon, PieChartIcon, Co
 
 export const info = {
   name: "Roberto Laura",
-  email: "contact@robertolaura.com"
+  email: "robertolaura@gmail.com"
 }
 export const HeroText = "I am a PPC specialist and technical content writer with a proven track record of success in helping businesses grow their online presence, specifically through PPC. I help businesses like yours attract more qualified leads, boost conversions, and achieve their marketing goals through the power of compelling content and strategic PPC campaigns."
 
